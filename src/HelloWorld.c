@@ -2,6 +2,8 @@
 
 void function1(void);
 
+#define DUMMY 	1
+
 void main()
 {
 	printf("Hello World");
