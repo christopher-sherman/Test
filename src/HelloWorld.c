@@ -2,7 +2,7 @@
 
 void function1(void);
 
-#define DUMMY 	1
+#define DUMMY 	2
 
 void main()
 {
